@@ -177,7 +177,7 @@ MULTI_VERSION/
 └── .gitignore
 💻 Build from Source
 Clone the Repository
-git clone https://github.com/YOUR_USERNAME/SmartCampus.git
+git clone https://github.com/25f3000121/SmartCampus.git
 cd SmartCampus
 Multi-Organization Version
 cd MULTI_VERSION
@@ -253,6 +253,3 @@ Smart Campus Application
 This project is developed for educational and project demonstration purposes.
 
 
-This format is much closer to the README you showed: **short introduction → Features → Download → Requirements → Run → Built With → Source Build**, while still documenting your two versions and the actual architecture. Your older Single Version is the single-organization implementation, while the newer uploaded project is the multi-organization implementation. :contentReference[oaicite:0]{index=0} :contentReference[oaicite:1]{index=1}
-
-If you want, I can also make the **actual `README.md` file with GitHub badges, icons, screenshots section, download buttons, and your GitHub username/repository name**, ready to put directly into the repository.

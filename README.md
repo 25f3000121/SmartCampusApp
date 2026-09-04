@@ -28,17 +28,16 @@ Organization Admins + Students
       ↓
 Complaints + Service Requests
 📥 Download & Run Application
+
 Multi-Organization Version
 
 👉 Download Smart Campus App (.jar)
-
-Add your Google Drive / GitHub Release download link here.
+https://drive.google.com/file/d/1R2yXtJ-DZXaP24lsQP3a0dAo43VT5Lgi/view?usp=sharing
 
 Single-Organization Version
 
 👉 Download Smart Campus Single Version (.jar)
-
-Add your download link here.
+https://drive.google.com/file/d/1R2yXtJ-DZXaP24lsQP3a0dAo43VT5Lgi/view?usp=sharing
 
 System Requirements
 Windows, macOS, or Linux

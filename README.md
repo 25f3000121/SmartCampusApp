@@ -32,7 +32,7 @@ Complaints + Service Requests
 Multi-Organization Version
 
 👉 Download Smart Campus App (.jar)
-https://drive.google.com/file/d/1R2yXtJ-DZXaP24lsQP3a0dAo43VT5Lgi/view?usp=sharing
+https://drive.google.com/file/d/10yD-1UxCiGnSVlkSSGaqUTel-I_hwcqo/view?usp=sharing
 
 Single-Organization Version
 
